@@ -1,0 +1,19 @@
+Sobre as 3 tarefas, segue códigos executados abaixo:
+
+
+1-Altere as permissões do arquivo para torná-lo executável.
+
+chmod +x calculadora.sh
+
+
+2-Defina as permissões da seguinte maneira: apenas o proprietário com permissão de escrita e os outros com permissão de leitura.
+
+chmod 644 calculadora.sh 
+
+3-Execute o script da calculadora.
+
+
+./calculadora.sh
+
+
+
